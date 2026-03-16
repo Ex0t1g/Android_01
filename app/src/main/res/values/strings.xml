@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android</string>
+    <string name="name" translatable="false">Иван</string>
+</resources>
